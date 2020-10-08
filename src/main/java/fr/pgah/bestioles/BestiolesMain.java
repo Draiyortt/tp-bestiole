@@ -11,13 +11,13 @@ public class BestiolesMain {
 
         // décommentez chacune de ces lignes au fur et à mesure
         // que les classes sont complétées
-        frame.add(10, Ours.class);
-        frame.add(15, Tigre.class);
-        frame.add(15, TigreBlanc.class);
-        frame.add(10, Yeti.class);
+        frame.add(3, Ours.class);
+        frame.add(5, Tigre.class);
+        frame.add(5, TigreBlanc.class);
+        frame.add(3, Yeti.class);
         frame.add(30, ChatNinja.class);
 
-        frame.add(30, Crocodile.class);
+        frame.add(2, Crocodile.class);
         frame.add(30, Plancton.class);
 
         frame.start();
